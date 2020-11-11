@@ -12,5 +12,4 @@ This project is just a collection of python scripts to:
     * Useful to understand the evolution of the issues and doing lead time related calculations
 > By the way, the code uses a wrapper to avoid problems with Jira servers with SSL certificates configured incorrectly (something very common in my experience).
 
-    
 Thanks for reading!
